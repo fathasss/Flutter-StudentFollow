@@ -1,4 +1,4 @@
-# fathasss_flutter
+# Flutter-StudentFollow
 
 A new Flutter project.
 
